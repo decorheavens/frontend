@@ -1,0 +1,25 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" fill="#100E0B"/>
+  <circle cx="270" cy="230" r="190" fill="#F5B14C" fill-opacity="0.25"/>
+  <circle cx="930" cy="940" r="260" fill="#F5B14C" fill-opacity="0.18"/>
+  <path d="M100 350C420 210 760 240 1100 360" stroke="#F0D49A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 450C420 330 760 330 1080 460" stroke="#E4B65F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M180 560C480 450 720 450 1020 570" stroke="#E4B65F" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#FFE6A6">
+    <circle cx="250" cy="310" r="22"/>
+    <circle cx="420" cy="280" r="20"/>
+    <circle cx="590" cy="290" r="24"/>
+    <circle cx="760" cy="305" r="22"/>
+    <circle cx="930" cy="335" r="23"/>
+    <circle cx="220" cy="420" r="24"/>
+    <circle cx="390" cy="390" r="21"/>
+    <circle cx="560" cy="400" r="25"/>
+    <circle cx="730" cy="405" r="22"/>
+    <circle cx="900" cy="430" r="24"/>
+    <circle cx="300" cy="520" r="22"/>
+    <circle cx="470" cy="500" r="24"/>
+    <circle cx="640" cy="500" r="21"/>
+    <circle cx="810" cy="520" r="24"/>
+  </g>
+  <text x="100" y="1040" fill="#FFF1CF" font-family="Arial, sans-serif" font-size="78" letter-spacing="8">GOLDEN CANOPY</text>
+</svg>
