@@ -11,7 +11,6 @@ const allowedDevOrigins = [
 const API_ORIGIN = process.env.API_URL?.replace(/\/api$/, "") ?? "http://localhost:4000";
 
 const nextConfig: NextConfig = {
-  distDir: ".next-build",
   allowedDevOrigins,
   images: {
     remotePatterns: [
